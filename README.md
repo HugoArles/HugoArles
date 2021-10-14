@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HugoArles
-- 👀 I’m interested in learning coding/programing
+- 👀 I’m interested in learning coding/programing and fully understandng blockchain technology
 - 🌱 I’m currently in begineer level programmer and an advanced level crypto trader 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
